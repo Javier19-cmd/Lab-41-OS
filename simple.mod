@@ -1,0 +1,2 @@
+/home/debian1/Documents/GitHub/Lab-41-OS/simple.o
+

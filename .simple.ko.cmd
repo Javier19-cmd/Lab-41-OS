@@ -1,0 +1,1 @@
+cmd_/home/debian1/Documents/GitHub/Lab-41-OS/simple.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T arch/x86/module.lds -o /home/debian1/Documents/GitHub/Lab-41-OS/simple.ko /home/debian1/Documents/GitHub/Lab-41-OS/simple.o /home/debian1/Documents/GitHub/Lab-41-OS/simple.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/debian1/Documents/GitHub/Lab-41-OS/Module.symvers := sed 's/ko$$/o/' /home/debian1/Documents/GitHub/Lab-41-OS/modules.order | scripts/mod/modpost -m    -o /home/debian1/Documents/GitHub/Lab-41-OS/Module.symvers -e -i Module.symvers   -T -

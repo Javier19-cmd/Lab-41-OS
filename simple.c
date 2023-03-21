@@ -19,7 +19,7 @@ static int __init simple_init(void)
 // Definicion de la funcion de finalizacion
 static void __exit simple_exit(void)
 {
-    print(KERN_INFO "Removing Module\nOperations");
+    printk(KERN_INFO "Removing Module\nOperations");
 }
 
 // Escribiendo algunas instrucciones.
